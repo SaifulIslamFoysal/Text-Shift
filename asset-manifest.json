@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Shift/static/css/main.ec179a5f.css",
+    "main.js": "/Text-Shift/static/js/main.f49dc2a9.js",
+    "static/js/453.ed3810f9.chunk.js": "/Text-Shift/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Text-Shift/index.html",
+    "main.ec179a5f.css.map": "/Text-Shift/static/css/main.ec179a5f.css.map",
+    "main.f49dc2a9.js.map": "/Text-Shift/static/js/main.f49dc2a9.js.map",
+    "453.ed3810f9.chunk.js.map": "/Text-Shift/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec179a5f.css",
+    "static/js/main.f49dc2a9.js"
+  ]
+}
